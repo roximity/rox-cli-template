@@ -8,6 +8,12 @@ parsing. And [YoYo](https://github.com/jarohen/yoyo) for system management.
 Mongo driver and Monger are also included for database connections. Lastly 
 [Midje](https://github.com/marick/Midje) is setup for testing.
 
+## Install
+
+Clone this repo then install with lein. 
+
+`lein install`
+
 ## Usage
 
 `lein new rox-cli PROJ_NAME`

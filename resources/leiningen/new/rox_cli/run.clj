@@ -1,6 +1,6 @@
 (ns {{namespace}}.actions.run
   (:require [yoyo :refer  [ylet]]
-      [roximity.test3.core :refer [options]]
+      [{{namespace}}.core :refer [options]]
     )
   )
 
